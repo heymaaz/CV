@@ -1,0 +1,111 @@
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header Styles */
+.name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.contact-info {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.contact-info a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Section Styles */
+.section {
+    margin-top: 30px;
+}
+
+.section h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Education Styles */
+.education-info {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.expected-graduation {
+    font-style: italic;
+}
+
+.education-list {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* Work Experience Styles */
+.work-info {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.work-duration {
+    font-style: italic;
+}
+
+.work-list {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* Leadership Experience Styles */
+.leadership-info {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.leadership-duration {
+    font-style: italic;
+}
+
+.leadership-list {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* Awards & Achievements Styles */
+.award-info {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.award-date {
+    font-style: italic;
+}
+
+.award-list {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* Skills & Interests Styles */
+.skills-list {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* Footer Styles */
+.skills-list li:last-child {
+    margin-bottom: 0;
+}
